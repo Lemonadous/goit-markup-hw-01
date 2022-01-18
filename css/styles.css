@@ -1,17 +1,14 @@
 :root {
   --header-background-color: #ffffff;
   --header-logo-color: #000000;
-
   --main-background-color: #ffffff;
   --main-btn-text-color-first: #212121;
   --main-btn-background-color-first: #f5f4fa;
   --main-btn-text-color-second: #ffffff;
   --main-title-color: #212121;
   --main-text-categories: #757575;
-
   --footer-background-color: #2f303a;
   --footer-logo-color: #ffffff;
-
   --accent-color: #2196f3;
 }
 
